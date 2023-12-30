@@ -1,11 +1,7 @@
-<h1>Hello everybody</h1>
-<h2> This side Namrata</h2>
-h1 {
-  color: blue;
-  font-size: 30px;
+ul {
+  list-style-type: square;
 }
 
-h2 {
-  color: green;
-  text-decoration: underline;
+ol {
+  list-style-type: upper-roman;
 }
