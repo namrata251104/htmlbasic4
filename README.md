@@ -1,7 +1,1 @@
-ul {
-  list-style-type: square;
-}
 
-ol {
-  list-style-type: upper-roman;
-}
